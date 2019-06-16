@@ -1,0 +1,13 @@
+L'équipe de Miroir Noir utilise la méthode Scrum pour gérer le projet.
+- Elle fait des daily stand up meeting pour préparer le travail quotidien
+- Elle fonctionne avec un backlog, où on récupère les user stories à réaliser
+- elle utilise un gestionnaire de source (Git + gitLab) et fait de la revue de code par pull request quand une story a été développée
+- Les développeurs font du pair programming
+- L'équipe évalue la complexité des tâches avec un poker planning
+
+Les points à améliorer :
+- Le client n'est pas réellement impliqué dans le processus. Il peut voir le résultat, mais pas réellement dire si ça lui convient ou pas -> risque de surcharge de travail ou de refus de livraison.
+Il faudrait impliquer plus le client, lui permettre de voir le résultat (via une démo hebdomadaire, par exemple) et refuser sa livraison si elle ne lui convient pas en l'état
+- La réunion hebdomadaire avec toute l'équipe est jugée inutile -> voir ce qu'elle contient et comment lui donner une utilité, avec par exemple des actions à prendre pour améliorer le sprint suivant.
+- Il manque un sprint 0, dans lequel on détaillerait le cahier des charges pour le découper en fonctionnalités et éventuellement en stories.
+Actuellement, cette action se fait au fil de l'eau, ce qui est quand même hasardeux, et pourrait entrainer des erreurs d'estimation.
