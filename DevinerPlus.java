@@ -1,4 +1,5 @@
 public class escargot{
+	//Pour les petits curieux, il s'agit d'un exercice pour un MOOc sur FUN, permettant de débuter en Java ;)
   public static void main(String[] args){
 	int nbEscargots = 5;
     int[] nombre = new int[nbEscargots]; 
