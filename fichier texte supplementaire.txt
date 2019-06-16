@@ -1,1 +1,2 @@
-Ajout d'un fichier texte supplémentaire, directement depuis GitHub
+﻿Ajout d'un fichier texte supplémentaire, directement depuis GitHub
+Mais on peut aussi l'éditer depuis mo, poste local
